@@ -296,7 +296,9 @@ Animate CSS makes animation easy.
 
 ---
 
-# Exercise
+### Exercise
+
+Animate your profile page using animate.css
 
 ---
 
@@ -313,8 +315,31 @@ share it to many files.
 
 ---
 
+custom.css
+
+```
+.bigText {
+  font-size: 5em;
+}
+```
+
+index.html
+
+```
+<link rel="stylesheet" href="custom.css">
+```
+
+---
+
 # Demo
 
 ---
 
-# Exercises
+# Exercise
+
+Create a css file and add your custom styles to the custom.css file. 
+Include the file into your index.html
+
+---
+
+
